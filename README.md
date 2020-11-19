@@ -1,5 +1,6 @@
 ## What
-Dockerの学習を元に作成する簡易アプリケーション
+Dockerの学習を元にScaffoldで作成した簡易メモアプリです。
+Rails6 + Dockerの環境構築に関するキャッチアップが主な目的なので、アプリはとりあえず動くScaffoldで作成しました。
 
 ## 使用技術
 - Docker
