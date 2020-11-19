@@ -1,24 +1,13 @@
-# README
+## What
+Dockerの学習を元に作成する簡易アプリケーション
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 使用技術
+- Docker
+- Docker-compose
+- Rails ver 6.0.3.4
+- Ruby ver 2.7.2
+- DB:PostgreSQL
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 参考教材
+- ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)
+- 米国AI開発者がゼロから教えるDocker講座(Udemy)
