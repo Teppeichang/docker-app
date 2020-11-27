@@ -1,10 +1,11 @@
 ## What
-Dockerの学習を元にScaffoldで作成した簡易メモアプリです。
-Rails6 + Dockerの環境構築に関するキャッチアップが主な目的なので、アプリはとりあえず動くScaffoldで作成しました。
+DockerとTravisCIによるCI/CDパイプライン構築の学習を元にScaffoldで作成した簡易メモアプリです。
+Rails6 + Dockerの環境構築 + CI/CDパイプライン構築に関するキャッチアップが主な目的なので、アプリはとりあえず動くScaffoldで作成しました。
 
 ## 使用技術
 - Docker
 - Docker-compose
+- TravisCI
 - Rails ver 6.0.3.4
 - Ruby ver 2.7.2
 - DB:PostgreSQL
